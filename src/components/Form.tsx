@@ -23,7 +23,7 @@ export function Form(props: FormProps) {
                         value={state}
                     />
                     <button
-                        className="h-[50px] pl-4 pr-4 bg-slate-400 rounded-lg font-bold"
+                        className="h-[50px] pl-4 pr-4 bg-purple-700 rounded-lg font-bold"
                         type="submit"
                     >
                         <Plus className="text-slate-900 text-2xl" />

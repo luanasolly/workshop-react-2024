@@ -36,7 +36,7 @@ export function App() {
   return (
     <Container>
       <Content>
-        <h1 className="text-white text-lg font-bold">Workshop React 2024</h1>
+        <h1 className="text-white text-lg font-bold">Tarefas</h1>
         <Form onSubmit={addTask} />
         <Filters filter={filter} setFilter={setFilter} />
         <List>
